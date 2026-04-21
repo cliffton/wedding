@@ -7,16 +7,17 @@
 
 | Metric | From Scratch (No Apps) | From Scratch (w/ All Apps) | Hometown Chef |
 |--------|----------------------|--------------------------|---------------|
-| **Subtotal** | $11,035 | $12,785 | $11,814.00 |
-| **+ 8.25% Tax** | $910.39 | $1,054.76 | $975.66 |
-| **+ 20% Gratuity** | $2,207.00 | $2,557.00 | $2,362.80 |
-| **Final Total** | **$14,152.39** | **$16,396.76** | **$15,346.39** |
-| **Per Person Cost (Final)** | **$83.25** | **$96.45** | **$90.27** |
+| **Subtotal** | $10,235 | $11,985 | $11,814.00 |
+| **+ 8.25% Tax** | $843.89 | $988.76 | $975.66 |
+| **+ 20% Gratuity** | $2,047.00 | $2,397.00 | $2,362.80 |
+| **Final Total** | **$13,125.89** | **$15,370.76** | **$15,346.39** |
+| **Per Person Cost (Final)** | **$77.21** | **$90.41** | **$90.27** |
 | **Appetizers (pcs/person)** | 0 | ~4 | 4 |
 
 **Notes:** 
-- From Scratch: Subtotal + 8.25% tax + 20% gratuity (calculated separately)
+- From Scratch: Subtotal (excludes $800 bar service) + 8.25% tax + 20% gratuity
 - Hometown Chef: Already includes 8.25% tax; gratuity is discretionary (20% shown)
+- Bar service considered separately
 
 ---
 
@@ -159,14 +160,14 @@
 ## Key Differences at a Glance
 
 ### From Scratch Advantages:
-✅ **Lower cost if NO appetizers** ($14,152 vs $15,346 for HTC)  
-✅ Lower per-person cost ($83.25 vs $90.27)  
+✅ **Significantly lower cost without appetizers** ($13,126 vs $15,346 for HTC) — saves $2,220  
+✅ **Lower per-person cost** ($77.21 vs $90.27)  
 ✅ Lower initial deposit ($250 vs $1,500)  
-✅ Flexible appetizer add-ons (choose what you want)
+✅ Flexible appetizer add-ons (choose what you want)  
+✅ **Nearly identical price WITH appetizers** ($15,371 vs HTC $15,346)
 
 ### Hometown Chef Advantages:
-✅ **Better value WITH appetizers** ($15,346 for 4 apps/pp vs FS $16,397)  
-✅ **3 appetizers per person included** (no additional cost)  
+✅ **3 appetizers per person included** (no decision fatigue)  
 ✅ **Plated seated service included** ($15pp value)  
 ✅ More detailed menu specifications  
 ✅ Multiple entree/side options for guests to choose  
@@ -180,17 +181,17 @@
 
 ## Cost Difference Breakdown
 
-**Comparing Final Totals (with Tax & Gratuity):**
+**Comparing Final Totals (with Tax & Gratuity, excluding bar service):**
 
 | Scenario | From Scratch | Hometown Chef | Difference |
 |----------|--------------|---------------|-----------|
-| **No Appetizers** | $14,152.39 | $15,346.39 | HTC +$1,194 |
-| **With All Appetizers** | $16,396.76 | $15,346.39 | FS +$1,050 |
+| **No Appetizers** | $13,125.89 | $15,346.39 | FS saves $2,220.50 |
+| **With All Appetizers** | $15,370.76 | $15,346.39 | FS costs $24.37 more |
 
 **Key Insight:** 
-- From Scratch WITHOUT appetizers: **$806 cheaper** than HTC
-- From Scratch WITH appetizers (matching HTC quantity): **$1,050 MORE expensive** than HTC
-- Hometown Chef offers better value if you want appetizers included
+- From Scratch WITHOUT appetizers: **$2,220 cheaper** than HTC ✓
+- From Scratch WITH all appetizers: **Virtually identical** to HTC ($24 difference)
+- **Recommendation:** From Scratch offers better value — go with no appetizers and save $2,220, or add select appetizers at lower cost than HTC's bundled price
 
 ---
 
