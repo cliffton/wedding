@@ -90,7 +90,6 @@
 | **Cambros (Equipment)** | 2 @ $170 = $340 | Included in package |
 | **Seated Meal Service** | Not explicitly mentioned | $15.00/person = $2,550 (plated service) |
 | **Cake Cutting** | $250 | Included (plates & forks provided) |
-| **Bar Service** | 4 hrs minimum = $800 | Not included in main package |
 
 ---
 
@@ -99,7 +98,6 @@
 | Item | From Scratch | Hometown Chef |
 |------|--------------|---------------|
 | **Beverages Included** | Lemonade & Water | Iced Tea Station (8 gallons @ $18 = $144) & Filtered Water Station ($35) |
-| **Bar Service** | $800 (4 hrs minimum) | TBD - separately priced |
 
 ---
 
