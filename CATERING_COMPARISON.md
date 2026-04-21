@@ -41,15 +41,15 @@
 ### From Scratch (All Optional - NOT Included)
 | Item | Price | Cost for 170 Guests |
 |------|-------|-------------------|
-| Vegan Lettuce Wraps | $25/dozen (10 per dozen) | $425 (170 ÷ 10 = 17 dozen) |
-| Korean Beef Tacos | $40/dozen (10 per dozen) | $680 (170 ÷ 10 = 17 dozen) |
-| Chicken Teriyaki Skewers | $120/pan (~60 pcs per pan) | $340 (170 ÷ 60 = 3 pans) |
+| Vegan Lettuce Wraps | $25/dozen (12 per dozen) | $375 (170 ÷ 12 = 15 dozen) |
+| Korean Beef Tacos | $40/dozen (12 per dozen) | $600 (170 ÷ 12 = 15 dozen) |
+| Chicken Teriyaki Skewers | $120/pan (~60 pcs per pan) | $360 (170 ÷ 60 = 3 pans) |
 
 **From Scratch Appetizer Scenarios:**
 - **None:** $0 (save $2,210)
-- **One option (e.g., Tacos):** $680 (save $1,530 vs HTC)
-- **All three options:** $1,445 (save $765 vs HTC)
-- **Match HTC quantity (4 pcs per person):** ~$1,200-$1,600 estimated
+- **One option (e.g., Tacos):** $600 (save $1,610 vs HTC)
+- **All three options:** $1,335 (save $875 vs HTC)
+- **Match HTC quantity (4 pcs per person):** ~$1,200-$1,500 estimated
 
 ---
 
