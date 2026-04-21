@@ -43,13 +43,13 @@
 |------|-------|----------|------|
 | Vegan Lettuce Wraps | $25/dozen (12 per dozen) | 255 pcs (22 dozen) | $550 |
 | Korean Beef Tacos | $40/dozen (12 per dozen) | 170 pcs (15 dozen) | $600 |
-| Chicken Teriyaki Skewers | $120/pan (~60 pcs per pan) | 170 pcs (3 pans) | $360 |
+| Chicken Teriyaki Skewers | $120/pan (~60 pcs per pan) | 255 pcs (5 pans) | $600 |
 
 **From Scratch Appetizer Scenarios:**
 - **None:** $0 (save $2,210)
 - **One option (Tacos only):** $600 (save $1,610 vs HTC)
 - **Wraps + Tacos:** $1,150 (save $1,060 vs HTC)
-- **All three options:** $1,510 (save $700 vs HTC)
+- **All three options:** $1,750 (save $460 vs HTC)
 - **Match HTC quantity (4 pcs per person):** ~$1,200-$1,500 estimated
 
 ---
