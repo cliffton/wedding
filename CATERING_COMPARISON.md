@@ -7,17 +7,21 @@
 
 | Metric | From Scratch (No Apps) | From Scratch (w/ All Apps) | Hometown Chef |
 |--------|----------------------|--------------------------|---------------|
-| **Subtotal** | $10,235 | $11,985 | $11,814.00 |
-| **+ 8.25% Tax** | $843.89 | $988.76 | $975.66 |
+| **Food/Service Subtotal** | $10,235.00 | $11,985.00 | $11,814.00 |
+| **+ 20% Production Fee** | N/A | N/A | $2,362.80 |
+| **Pre-Tax Subtotal** | $10,235.00 | $11,985.00 | $14,176.80 |
+| **+ 8.25% Sales Tax** | $844.39 | $988.76 | $1,169.59 |
+| **Invoice Total** | $11,079.39 | $12,973.76 | **$15,346.39** |
 | **+ 20% Gratuity** | $2,047.00 | $2,397.00 | $2,362.80 |
-| **Final Total** | **$13,125.89** | **$15,370.76** | **$15,346.39** |
-| **Per Person Cost (Final)** | **$77.21** | **$90.41** | **$90.27** |
+| **Final Total (w/ Gratuity)** | **$13,126.39** | **$15,370.76** | **$17,709.19** |
+| **Per Person Cost (Final)** | **$77.21** | **$90.42** | **$104.17** |
 | **Appetizers (pcs/person)** | 0 | ~4 | 4 |
 
 **Notes:** 
-- From Scratch: Subtotal (excludes $800 bar service) + 8.25% tax + 20% gratuity
-- Hometown Chef: Already includes 8.25% tax; gratuity is discretionary (20% shown)
-- Bar service considered separately
+- From Scratch: Excludes $800 bar service (considered separately)
+- Hometown Chef: Invoice total of $15,346.39 does NOT include gratuity (contract states gratuity is discretionary)
+- Gratuity added to HTC at 20% of food subtotal ($11,814) for apples-to-apples comparison
+- Bar service considered separately for both
 
 ---
 
@@ -117,8 +121,9 @@
 
 | Item | From Scratch | Hometown Chef |
 |------|--------------|---------------|
-| **Sales Tax** | Included in estimate | 8.25% = $1,169.59 |
-| **Gratuity** | 20% included | NOT included; 15-20% optional at client discretion |
+| **Sales Tax** | 8.25% ADDED on top of subtotal | 8.25% = $1,169.59 (on food + production fee) |
+| **Production Fee** | None | 20% = $2,362.80 |
+| **Gratuity** | 20% ADDED on top of subtotal | NOT included; 15-20% optional at client discretion |
 | **Credit Card Surcharge** | Not mentioned | 3% surcharge for credit cards |
 | **Initial Deposit** | $250 Save-the-Date Deposit | $1,500 non-refundable retainer (50% bar only) |
 
@@ -134,16 +139,17 @@
 
 ---
 
-## Invoicing & Pricing Structure
+## Invoicing & Pricing Structure (Excluding Bar Service)
 
-| Item | From Scratch | Hometown Chef |
-|------|--------------|---------------|
-| **Food Subtotal** | N/A (lump sum package) | $11,814.00 |
-| **Per Person Cost (Food)** | ~$30.77 | $69.49 |
-| **Production Fee** | N/A | 20% = $2,362.80 |
-| **Pre-Tax Subtotal** | ~$9,196 | $14,176.80 |
-| **Tax Included** | Yes (in estimate) | 8.25% = $1,169.59 |
-| **Final Balance** | $11,035 | $15,346.39 |
+| Item | From Scratch (No Apps) | From Scratch (All Apps) | Hometown Chef |
+|------|----------------------|------------------------|---------------|
+| **Food/Service Subtotal** | $10,235.00 | $11,985.00 | $11,814.00 |
+| **Production Fee** | N/A | N/A | $2,362.80 (20%) |
+| **Pre-Tax Subtotal** | $10,235.00 | $11,985.00 | $14,176.80 |
+| **Sales Tax (8.25%)** | $844.39 | $988.76 | $1,169.59 |
+| **Invoice Total** | $11,079.39 | $12,973.76 | $15,346.39 |
+| **Gratuity (20%)** | $2,047.00 | $2,397.00 | $2,362.80 |
+| **Final Total** | **$13,126.39** | **$15,370.76** | **$17,709.19** |
 
 ---
 
@@ -160,11 +166,12 @@
 ## Key Differences at a Glance
 
 ### From Scratch Advantages:
-✅ **Significantly lower cost without appetizers** ($13,126 vs $15,346 for HTC) — saves $2,220  
-✅ **Lower per-person cost** ($77.21 vs $90.27)  
+✅ **Significantly lower cost without appetizers** ($13,126 vs $17,709 HTC) — saves $4,583  
+✅ **Cheaper even WITH appetizers** ($15,371 vs $17,709 HTC) — saves $2,338  
+✅ **Lower per-person cost** ($77.21 vs $104.17)  
 ✅ Lower initial deposit ($250 vs $1,500)  
 ✅ Flexible appetizer add-ons (choose what you want)  
-✅ **Nearly identical price WITH appetizers** ($15,371 vs HTC $15,346)
+✅ No Production Fee (HTC adds 20% production fee on top of food)
 
 ### Hometown Chef Advantages:
 ✅ **3 appetizers per person included** (no decision fatigue)  
@@ -181,17 +188,22 @@
 
 ## Cost Difference Breakdown
 
-**Comparing Final Totals (with Tax & Gratuity, excluding bar service):**
+**Comparing Final Totals (with Tax & 20% Gratuity, excluding bar service):**
 
 | Scenario | From Scratch | Hometown Chef | Difference |
 |----------|--------------|---------------|-----------|
-| **No Appetizers** | $13,125.89 | $15,346.39 | FS saves $2,220.50 |
-| **With All Appetizers** | $15,370.76 | $15,346.39 | FS costs $24.37 more |
+| **No Appetizers** | $13,126.39 | $17,709.19 | FS saves **$4,582.80** |
+| **With All Appetizers** | $15,370.76 | $17,709.19 | FS saves **$2,338.43** |
 
 **Key Insight:** 
-- From Scratch WITHOUT appetizers: **$2,220 cheaper** than HTC ✓
-- From Scratch WITH all appetizers: **Virtually identical** to HTC ($24 difference)
-- **Recommendation:** From Scratch offers better value — go with no appetizers and save $2,220, or add select appetizers at lower cost than HTC's bundled price
+- From Scratch is **cheaper in both scenarios**
+- Even with all 3 appetizer add-ons, From Scratch saves ~$2,338
+- HTC's apparent total ($15,346) is misleading — it does NOT include gratuity
+
+**Why the difference?**
+- HTC charges a 20% **Production Fee** (separate from gratuity) on food = $2,362.80
+- HTC tax applies to food + production fee ($14,176.80), not just food
+- When 20% gratuity is added (which the contract says is discretionary but customary), HTC's true cost rises significantly
 
 ---
 
