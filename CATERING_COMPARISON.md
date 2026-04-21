@@ -5,11 +5,17 @@
 
 ## Summary Pricing
 
-| Metric | From Scratch | Hometown Chef |
-|--------|--------------|---------------|
-| **Estimated Total** | $11,035 | $15,346.39 |
-| **Per Person Cost** | ~$64.91 | $90.27 |
-| **Includes Tax & Gratuity?** | Yes (20%) | Partial (8.25% tax only, no gratuity) |
+| Metric | From Scratch (No Apps) | From Scratch (w/ All Apps) | Hometown Chef |
+|--------|----------------------|--------------------------|---------------|
+| **Base Total** | $11,035 | $12,480 | $15,346.39 |
+| **Per Person Cost** | ~$64.91 | ~$73.41 | $90.27 |
+| **Includes Tax & Gratuity?** | Yes (20%) | Yes (20%) | Partial (8.25% tax only, no gratuity) |
+| **Appetizers (pcs/person)** | 0 | ~4 | 4 |
+
+**Notes:** 
+- From Scratch base includes 2 entrees, 2 sides, 1 salad
+- HTC: Add 18-20% gratuity to true total (~$18,108-$18,415)
+- From Scratch total includes tax & 20% gratuity upfront
 
 ---
 
@@ -18,21 +24,32 @@
 | Item | From Scratch | Hometown Chef |
 |------|--------------|---------------|
 | **Base Package** | Elegance: $5,250 | Premium China Buffet: $6,800 (@ $40pp) |
-| **What's Included** | 1 entrée, 2 sides, 1 salad, lemonade & water | Choice of 2 entrées, any salad, 2 sides, dinner rolls & butter |
+| **What's Included** | 2 entrées, 2 sides, 1 salad, lemonade & water | Choice of 2 entrées, any salad, 2 sides, dinner rolls & butter |
 
 ---
 
 ## Appetizers
 
-| Item | From Scratch | Hometown Chef |
-|------|--------------|---------------|
-| **Appetizers Provided** | Optional add-ons | 3 per person included: Birria Taco Shooter, Short Rib Potato Vol Al Vent, Spinach & Artichoke Stuffed Mushrooms |
-| **Cost** | Extra | $13.00/person = $2,210 (included in total) |
+### Hometown Chef (Included)
+| Item | Per Person | Total Cost |
+|------|-----------|-----------|
+| Birria Taco Shooter | 1 pp | Included in $13/pp |
+| Short Rib Potato Vol Al Vent | 1.5 pp | Included in $13/pp |
+| Spinach & Artichoke Stuffed Mushrooms (V) | 1.5 pp | Included in $13/pp |
+| **Total per person** | 4 pieces | **$13.00/person = $2,210 total** |
 
-**From Scratch Optional Appetizers (not included):**
-- Vegan Lettuce Wraps: $25/dozen
-- Korean Beef Tacos: $40/dozen
-- Chicken Teriyaki Skewers: $120/pan (~60 pcs)
+### From Scratch (All Optional - NOT Included)
+| Item | Price | Cost for 170 Guests |
+|------|-------|-------------------|
+| Vegan Lettuce Wraps | $25/dozen (10 per dozen) | $425 (170 ÷ 10 = 17 dozen) |
+| Korean Beef Tacos | $40/dozen (10 per dozen) | $680 (170 ÷ 10 = 17 dozen) |
+| Chicken Teriyaki Skewers | $120/pan (~60 pcs per pan) | $340 (170 ÷ 60 = 3 pans) |
+
+**From Scratch Appetizer Scenarios:**
+- **None:** $0 (save $2,210)
+- **One option (e.g., Tacos):** $680 (save $1,530 vs HTC)
+- **All three options:** $1,445 (save $765 vs HTC)
+- **Match HTC quantity (4 pcs per person):** ~$1,200-$1,600 estimated
 
 ---
 
