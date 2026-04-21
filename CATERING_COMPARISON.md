@@ -7,15 +7,17 @@
 
 | Metric | From Scratch (No Apps) | From Scratch (w/ All Apps) | Hometown Chef |
 |--------|----------------------|--------------------------|---------------|
-| **Base Total** | $11,035 | $12,785 | $15,346.39 |
-| **Per Person Cost** | ~$64.91 | ~$75.21 | $90.27 |
-| **Includes Tax & Gratuity?** | Yes (20%) | Yes (20%) | Partial (8.25% tax only, no gratuity) |
+| **Subtotal** | $11,035 | $12,785 | $11,814.00 |
+| **+ Tax & Gratuity** | TBD* | TBD* | $3,532.39 (8.25% tax + 20% gratuity) |
+| **Estimated Final Total** | ~$14,200-$15,100 | ~$16,370-$17,410 | $15,346.39 |
+| **Per Person Cost (Final)** | ~$83.53-$88.82 | ~$96.29-$102.41 | $90.27 |
 | **Appetizers (pcs/person)** | 0 | ~4 | 4 |
+
+*From Scratch quote is ambiguous — says "Final total includes tax and 20% gratuity" but doesn't itemize them separately. Estimated 8% tax + 20% gratuity = 28% of subtotal.
 
 **Notes:** 
 - From Scratch base includes 2 entrees, 2 sides, 1 salad
-- HTC: Add 18-20% gratuity to true total (~$18,108-$18,415)
-- From Scratch total includes tax & 20% gratuity upfront
+- Need to confirm with From Scratch whether tax/gratuity are included or added
 
 ---
 
@@ -178,14 +180,21 @@
 
 ## Cost Difference Breakdown
 
-**Hometown Chef costs $2,561.39 more** ($15,346.39 - $12,785 with all FS appetizers)
+**⚠️ CLARIFICATION NEEDED:** From Scratch quote doesn't itemize tax/gratuity separately.
 
-Main reasons:
-1. **Production Fee (20%):** +$2,362.80
-2. **Seated Meal Service:** +$2,550
-3. **Additional appetizers included:** +$0 (FS covers same quantity with $1,750 add-ons)
-4. **Beverage Stations:** +$179
-5. **Offset by:** Not including 20% gratuity upfront (discretionary)
+**If tax & gratuity are ADDED to From Scratch ($11,035 + 28%):**
+- From Scratch final: ~$14,125 - $15,125
+- Hometown Chef final: ~$18,415 (with 20% gratuity added)
+- **HTC costs $3,290 - $4,290 more**
+
+**If From Scratch price ALREADY includes tax/gratuity:**
+- From Scratch final: $11,035
+- Hometown Chef final: ~$18,415 (with 20% gratuity)
+- **HTC costs $7,380 more**
+
+**Recommendation:** Contact From Scratch to confirm whether the $11,035 is:
+- A) Subtotal (tax/gratuity to be added)
+- B) Final price (tax/gratuity already included)
 
 ---
 
