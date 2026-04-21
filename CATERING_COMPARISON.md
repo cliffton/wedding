@@ -7,8 +7,8 @@
 
 | Metric | From Scratch (No Apps) | From Scratch (w/ All Apps) | Hometown Chef |
 |--------|----------------------|--------------------------|---------------|
-| **Base Total** | $11,035 | $12,480 | $15,346.39 |
-| **Per Person Cost** | ~$64.91 | ~$73.41 | $90.27 |
+| **Base Total** | $11,035 | $12,785 | $15,346.39 |
+| **Per Person Cost** | ~$64.91 | ~$75.21 | $90.27 |
 | **Includes Tax & Gratuity?** | Yes (20%) | Yes (20%) | Partial (8.25% tax only, no gratuity) |
 | **Appetizers (pcs/person)** | 0 | ~4 | 4 |
 
@@ -58,7 +58,7 @@
 
 | Item | From Scratch | Hometown Chef |
 |------|--------------|---------------|
-| **Entrée Options** | 1 entrée (not specified) | Choose 2 from: Poblano Creamy Chicken OR Atlantic Cod Filet (GF) |
+| **Entrée Options** | 2 entrées (not specified) | Choose 2 from: Poblano Creamy Chicken OR Atlantic Cod Filet (GF) |
 | **Cost** | Included in $5,250 | Included in $40pp price |
 
 ---
@@ -180,14 +180,14 @@
 
 ## Cost Difference Breakdown
 
-**Hometown Chef costs $4,311.39 more ($15,346.39 - $11,035)**
+**Hometown Chef costs $2,561.39 more** ($15,346.39 - $12,785 with all FS appetizers)
 
 Main reasons:
 1. **Production Fee (20%):** +$2,362.80
 2. **Seated Meal Service:** +$2,550
-3. **Appetizers included:** +$2,210
+3. **Additional appetizers included:** +$0 (FS covers same quantity with $1,750 add-ons)
 4. **Beverage Stations:** +$179
-5. Offset by: Not including 20% gratuity upfront (discretionary)
+5. **Offset by:** Not including 20% gratuity upfront (discretionary)
 
 ---
 
